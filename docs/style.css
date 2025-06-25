@@ -1,0 +1,37 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+  color: #222;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 1rem;
+}
+header, footer {
+  background: #f4f4f4;
+  padding: 1rem;
+  text-align: center;
+}
+h1, h2 {
+  color: #333;
+}
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+section {
+  margin: 2rem 0;
+}
+.project {
+  margin-bottom: 1rem;
+}
+.links a {
+  margin: 0 0.5rem;
+}
+.tagline {
+  font-style: italic;
+  margin: 0.5rem 0 1rem 0;
+}
